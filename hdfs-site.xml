@@ -9,4 +9,8 @@
         <name>dfs.webhdfs.enabled</name>
         <value>true</value>
     </property>
+    <!-- <property>
+        <name>dfs.blocksize</name>
+        <value>67108864</value>
+    </property> -->
 </configuration>
